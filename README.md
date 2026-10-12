@@ -82,17 +82,16 @@ Record actual command output, date, environment and result in `docs/TESTING_AND_
 
 ## Academic document index
 
-- [Project Synopsis](docs/PROJECT_SYNOPSIS.md)
-- [Full Project Documentation](docs/EduBridge_Project_Documentation.md)
-- [Scrum Book / Rough Record](docs/EduBridge_Scrum_Book.md)
-- [Two-week Sprint Plan and Review Calendar](docs/PROJECT_PLAN.md)
-- [Testing and Validation Log](docs/TESTING_AND_VALIDATION.md)
-- [Product Backlog](docs/PRODUCT_BACKLOG.md)
-- [Final Submission Checklist](docs/Final_Submission_Checklist.md)
-- [System Architecture](docs/ARCHITECTURE.md)
-- [Manual Acceptance Test Evidence](docs/Manual_Acceptance_Test_Evidence.md)
-- [Screenshot Evidence Guide](docs/evidence/README.md)
-
+- [PROJECT_SYNOPSIS.md](https://github.com/vincentcibin-a11y/EdubrideMainProject/blob/main/docs/PROJECT_SYNOPSIS.md)
+- [PROJECT_PLAN.md](https://github.com/vincentcibin-a11y/EdubrideMainProject/blob/main/docs/PROJECT_PLAN.md)
+- [PRODUCT_BACKLOG.md](https://github.com/vincentcibin-a11y/EdubrideMainProject/blob/main/docs/PRODUCT_BACKLOG.md)
+- [TESTING_AND_VALIDATION.md](https://github.com/vincentcibin-a11y/EdubrideMainProject/blob/main/docs/TESTING_AND_VALIDATION.md)
+- [EduBridge_Project_Documentation.md](https://github.com/vincentcibin-a11y/EdubrideMainProject/blob/main/docs/EduBridge_Project_Documentation.md)
+- [EduBridge_Scrum_Book.md](https://github.com/vincentcibin-a11y/EdubrideMainProject/blob/main/docs/EduBridge_Scrum_Book.md)
+- [Final_Submission_Checklist.md](https://github.com/vincentcibin-a11y/EdubrideMainProject/blob/main/docs/Final_Submission_Checklist.md)
+- [Manual_Acceptance_Test_Evidence.md](https://github.com/vincentcibin-a11y/EdubrideMainProject/blob/main/docs/Manual_Acceptance_Test_Evidence.md)
+- [ARCHITECTURE.md](https://github.com/vincentcibin-a11y/EdubrideMainProject/blob/main/docs/ARCHITECTURE.md)
+- [README.md](https://github.com/vincentcibin-a11y/EdubrideMainProject/blob/main/docs/evidence/README.md)
 ## Deployment note
 
 Docker Compose currently supports local development and reproducible builds. Treat production deployment as incomplete until a real hosting target is configured and tested. Before deploying, configure protected secrets, a production database, correct frontend CORS origin, HTTPS and a health check. Never commit `.env`, real credentials, tokens, student private data or production database URLs.
